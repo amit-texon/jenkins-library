@@ -1,1 +1,1 @@
-# jenkins-library
+# github-api-global-lib
